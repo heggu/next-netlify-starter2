@@ -11,10 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <img src="https://cdn.discordapp.com/attachments/1030350459950600222/1077913389122203689/download.png" width="351",height="351">
       </main>
 
       <Footer />
